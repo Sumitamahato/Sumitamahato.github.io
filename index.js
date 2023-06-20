@@ -9,8 +9,6 @@ toggle.addEventListener("click", ()=> {
 }
 )
 
-    // GitHubCalendar(".calendar", "Yunuslala");
-    // GitHubCalendar(".calendar", "Yunuslala", { responsive: true });
 
     function downloadresume(){
         window.open("https://drive.google.com/file/d/1OOUqgBVJK6Ge0tHOMRRD1vrfobEz3vms/view?usp=share_link","_blank")
